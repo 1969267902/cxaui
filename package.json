@@ -2,6 +2,8 @@
   "name": "cxaui",
   "version": "0.1.0",
   "private": true,
+  "main": "index.ts",
+  "repository": "https://code.cxaone.cn/cxaone_v2/cxa-ui-one.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
