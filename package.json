@@ -1,7 +1,7 @@
 {
   "name": "cxaui",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "index.ts",
   "repository": {
     "type": "git",
